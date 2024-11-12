@@ -132,3 +132,6 @@ for i, mhs in enumerate(mahasiswa):
 print("-" * 60)
 ```
 `Header` tabel dicetak terlebih dahulu, diikuti oleh baris-baris data untuk setiap mahasiswa, Untuk setiap mahasiswa, metode `hitung_nilai_akhir` dipanggil untuk menghitung nilai akhir, lalu data ditampilkan dalam format tabel
+
+Code Program tersebut:
+![gambar](https://github.com/andreanbadeh/Praktikum-5/blob/349c4503f52243353071446cc6a471388cfd4363/Image/nilai.png)
