@@ -80,7 +80,7 @@ for i, mhs in enumerate(mahasiswa):
 print("-" * 60)
 ```
 
-# Penjelasan Menambah data
+# Penjelasan Code Menambah data
 
 ```python
 class Mahasiswa:
@@ -91,3 +91,5 @@ class Mahasiswa:
         self.nilai_uts = nilai_uts
         self.nilai_uas = nilai_uas
 ```
+`__init__`: Konstruktor ini digunakan untuk menginisialisasi objek Mahasiswa dengan atribut: `nama`, `nim`, `nilai_tugas`, `nilai_uts`, `nilai_uas`
+
