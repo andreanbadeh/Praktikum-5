@@ -40,6 +40,10 @@ list_a.extend(list_b)
 print(list_a)
 ```
 
+Code Program tersebut:
+
+![gambar](https://github.com/andreanbadeh/Praktikum-5/blob/fbb46c5a7ac540b78201de609480b76da1600f79/Image/elemen.png)
+
 # Menambah data.py
 
 ```python
