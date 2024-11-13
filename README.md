@@ -140,3 +140,7 @@ Code Program tersebut:
 Hasil Program tersebut:
 
 ![gambar](https://github.com/andreanbadeh/Praktikum-5/blob/d0f3d8011ce2790877a2d682f1a44c820bd4d908/Image/Screenshot%202024-11-12%20051101.png)
+
+Dan ini flowchart nya:
+
+![gambar](https://github.com/andreanbadeh/Praktikum-5/blob/ac106ac1f596e43ee3a488e4bb6059e15864a568/Image/Screenshot%202024-11-13%20083635.png)
